@@ -285,7 +285,7 @@ const Index = () => {
       <header className="sticky top-0 z-30 border-b border-border/70 bg-background/95 backdrop-blur-sm">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3">
-            <img alt="PepsiCo India Foods badge" className="h-11 w-11 rounded-2xl" src="/pepsico-badge.svg" />
+            <img alt="PepsiCo logo" className="h-14 w-auto shrink-0 object-contain sm:h-16" src="/pepsico-logo.svg" />
             <div>
               <p className="text-[0.68rem] font-semibold uppercase tracking-[0.24em] text-primary/70">PepsiCo India Foods</p>
               <p className="text-base font-semibold text-foreground">Sales Prompt Bank</p>
@@ -304,8 +304,8 @@ const Index = () => {
             </a>
           </nav>
 
-          <div className="hidden items-center gap-3 rounded-full border border-border/70 bg-white px-3 py-2 lg:flex">
-            <img alt="PepsiCo India Foods badge" className="h-8 w-8 rounded-xl" src="/pepsico-badge.svg" />
+          <div className="hidden items-center gap-3 rounded-full border border-border/70 bg-white px-4 py-2 lg:flex">
+            <img alt="PepsiCo logo" className="h-10 w-auto object-contain" src="/pepsico-logo.svg" />
             <div>
               <p className="text-[0.64rem] font-semibold uppercase tracking-[0.2em] text-muted-foreground">Commercial use</p>
               <p className="text-sm font-semibold text-foreground">India Foods sales teams</p>
@@ -408,7 +408,7 @@ const Index = () => {
                       Commercial prompts that work across planning, market execution, and reviews.
                     </h2>
                   </div>
-                  <img alt="PepsiCo India Foods badge" className="h-12 w-12 rounded-2xl" src="/pepsico-badge.svg" />
+                  <img alt="PepsiCo logo" className="h-16 w-auto shrink-0 object-contain" src="/pepsico-logo.svg" />
                 </div>
                 <div className="mt-5 grid gap-3 sm:grid-cols-2">
                   <div className="rounded-[22px] border border-border/70 bg-white/80 p-4">
@@ -747,7 +747,7 @@ const Index = () => {
           <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
             <div className="max-w-2xl">
               <div className="flex items-center gap-3">
-                <img alt="PepsiCo India Foods badge" className="h-12 w-12 rounded-2xl" src="/pepsico-badge.svg" />
+                <img alt="PepsiCo logo" className="h-16 w-auto shrink-0 object-contain" src="/pepsico-logo.svg" />
                 <div>
                   <p className="text-base font-semibold text-foreground">PepsiCo India Foods Sales Prompt Bank</p>
                   <p className="text-sm leading-7 text-muted-foreground">Built for practical commercial planning, execution, and review work.</p>

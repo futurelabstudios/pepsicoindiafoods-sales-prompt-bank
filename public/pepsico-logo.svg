@@ -1,0 +1,13 @@
+<svg width="180" height="170" viewBox="0 0 180 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="170" fill="white"/>
+  <g transform="translate(56 12)">
+    <path d="M18 36C15 25 18 15 28 8C35 4 44 4 50 8C42 16 39 26 41 39C33 43 25 42 18 36Z" fill="#F5A400"/>
+    <path d="M51 9C57 4 66 4 74 8C83 13 87 22 85 33C76 30 67 31 59 37C51 34 47 25 51 9Z" fill="#7DB7FF"/>
+    <path d="M20 48C31 41 47 40 63 44C64 54 61 63 54 70C39 71 27 64 20 48Z" fill="#68B545"/>
+    <circle cx="50" cy="26" r="8" fill="#FDB913"/>
+    <circle cx="50" cy="25" r="3.5" fill="#0A3C7D"/>
+    <path d="M24 53C34 63 47 67 63 66" stroke="#FDB913" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="90" y="110" text-anchor="middle" fill="#153D73" font-size="34" font-weight="800" letter-spacing="-1.2" font-family="Avenir Next, Avenir, Trebuchet MS, Arial, sans-serif">pepsico</text>
+  <text x="90" y="130" text-anchor="middle" fill="#5B6470" font-size="11.5" font-weight="500" font-family="Avenir Next, Avenir, Trebuchet MS, Arial, sans-serif">Food. Drinks. Smiles.</text>
+</svg>
